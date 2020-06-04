@@ -6,7 +6,8 @@
 
 ![](/imgs/scipy.png)
 
-##### To my surprise, when 'sr' is specified as the file sampling rate, the librosa is five times faster than the scipy.
+##### ~~To my surprise, when 'sr' is specified as the file sampling rate, the librosa is five times faster than the scipy.~~
+##### The scipy is always faster than the librosa.
 
 ![](/imgs/librosa_sr_specified.png)
 
